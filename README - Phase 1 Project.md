@@ -1,9 +1,9 @@
 # 1. Overview
 
 The purpose of this project is to enhance and apply our exploratory data analysis, data cleansing and data visualization skills to a real-world problem or scenario.
-    - Link to Technical Notebook:
+    - Link to Technical Notebook: https://github.com/alecmills/phase-1-GroupProject/blob/master/student.ipynb
     - Link to final presentation:
-    - Link to original data sources:
+    - Link to original data sources: https://github.com/alecmills/phase-1-GroupProject/tree/master/zippedData
 
 
 # 2. Business Understanding
@@ -93,7 +93,7 @@ Our analysis resulted in the following visualizations and underlying observation
 
 
     3. Release Month vs. Profitability
-![image](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+![image]([https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true](https://github.com/alecmills/phase-1-GroupProject/blob/master/Images/NI%20v%20Month%20-%20Bar.png)
 
 
 

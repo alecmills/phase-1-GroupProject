@@ -1,6 +1,9 @@
 # 1. Overview
 
 The purpose of this project is to enhance and apply our exploratory data analysis, data cleansing and data visualization skills to a real-world problem or scenario.
+    - Link to Technical Notebook:
+    - Link to final presentation:
+    - Link to original data sources:
 
 
 # 2. Business Understanding
@@ -68,32 +71,55 @@ After analyzing the makeup of the merged Movies_DF dataframe, we further reduced
         
 We then analyzed the resulting dataset for trends and relationships to profitability metrics with genres, the month of release, and ratings.
 
-Our analysis resulted in the following visualizations (the same visualizations presented in the slides and notebook):
+Our analysis resulted in the following visualizations and underlying observations:
 
     1. IMDB Ratings vs. Profitability
+    
+![image](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+
+
 
 
 
 
     2. Genres vs. Profitability
+![image](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+
+
+
 
 
 
 
 
     3. Release Month vs. Profitability
+![image](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
 
 
 
+# 4. Recommendations / Conclusion
 
-# 4. Conclusion
 
+Based on our data analysis and the visualizations above, our 3 recommendations are as follows:
 
-    - What genres of movies are the most profitable at the box office (i.e. released in theatres)?
+    1. Sci-Fi / Action-Adventure Movie
+       - Microsoft should produce a big, action-packed sci-fi / action-adventure movie on existing IP. We think "Gears of War" would be a great first movie. They could consider making it slightly horror, which also does well overall.
+        - It should feature one of its own IP products. We think a movie on the X-Box game, "Gears of War" would be extremely successful
+        - The movie should be release in or around June (big summer hit). These are when many of the big Marvel, DC, and Star Wars movies are released. You may want to stay away from holiday weekends, so as not to compete with those established franchiises.
     
-    - Do ratings of movies seem to have any type of relationship with how well they do in theatres?
+    Image(url='https://media4.giphy.com/media/3ohc12Lvn94WJWtuVy/giphy.gif?cid=ecf05e470wxzj9qbtn42w2njsh1j59sf3si1cfje7vibcq7d&rid=giphy.gif&ct=g')  
     
-    - What timeline for release should Microsoft aim for?
+    
+    
+    2. Animated / Family
+        - Microsoft should produce a family-friend animated movie, that will further expand their viewership to kids and others who are not interested in the "Gears of War" movie
+        - This movie should be released in December, when families are together.
 
+
+
+    3. Comedy (Possibly Romantic)
+        - Finally, Microsoft should product a Comedy, potentially a Rom-Com.
+        - This would again, expand their following and possibly obtain new viewers (more females, couples, etc.)
+        - This movie should be released in one of the in between, yet profitable months, such as April or August.
 
 

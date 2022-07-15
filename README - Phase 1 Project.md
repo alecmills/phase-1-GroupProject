@@ -73,7 +73,7 @@ We then analyzed the resulting dataset for trends and relationships to profitabi
 
 Our analysis resulted in the following visualizations and underlying observations:
 
-   1. IMDB Ratings vs. Profitability ![image](/Images/Net Income vs Rating - Scatter.png)
+   1. IMDB Ratings vs. Profitability ![image](https://github.com/alecmills/phase-1-GroupProject/blob/master/Images/Net%20Income%20vs%20Rating%20-%20Scatter.png)
     
 
 
@@ -90,7 +90,7 @@ Our analysis resulted in the following visualizations and underlying observation
 
 
 
-   3. Release Month vs. Profitability ![image](/Images/NI v Month - Bar.png)
+   3. Release Month vs. Profitability ![image](https://github.com/alecmills/phase-1-GroupProject/blob/master/Images/NI%20v%20Month%20-%20Bar.png)
 
 
 

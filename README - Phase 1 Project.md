@@ -102,24 +102,22 @@ Our analysis resulted in the following visualizations and underlying observation
 
 Based on our data analysis and the visualizations above, our 3 recommendations are as follows:
 
-    1. Sci-Fi / Action-Adventure Movie
+    1. Sci-Fi / Action-Adventure Movie - June/July Release
        - Microsoft should produce a big, action-packed sci-fi / action-adventure movie on existing IP. We think "Gears of War" would be a great first movie. They could consider making it slightly horror, which also does well overall.
-        - It should feature one of its own IP products. We think a movie on the X-Box game, "Gears of War" would be extremely successful
-        - The movie should be release in or around June (big summer hit). These are when many of the big Marvel, DC, and Star Wars movies are released. You may want to stay away from holiday weekends, so as not to compete with those established franchiises.
-    
-    Image(url='https://media4.giphy.com/media/3ohc12Lvn94WJWtuVy/giphy.gif?cid=ecf05e470wxzj9qbtn42w2njsh1j59sf3si1cfje7vibcq7d&rid=giphy.gif&ct=g')  
-    
+        - This would also allow Microsoft to feature one of its own, and very successful, IP products.
+        - The movie should be release in or around June or July (US big summer hit). These are when many of the big Marvel, DC, and Star Wars movies are released. You may want to stay away from holiday weekends, so as not to compete with those established franchiises.
+        
     
     
-    2. Animated / Family
-        - Microsoft should produce a family-friend animated movie, that will further expand their viewership to kids and others who are not interested in the "Gears of War" movie
-        - This movie should be released in December, when families are together.
+    2. Animated / Family - December release
+        - Microsoft should produce a family-friendly animated movie, that will further expand their viewership to kids and others who are not interested in the "Gears of War" franchise.
+        - This movie should be released in December, when families are together for the holidays or consider mid-December to avoid competitor releases.
 
 
 
-    3. Comedy (Possibly Romantic)
-        - Finally, Microsoft should product a Comedy, potentially a Rom-Com.
-        - This would again, expand their following and possibly obtain new viewers (more females, couples, etc.)
-        - This movie should be released in one of the in between, yet profitable months, such as April or August.
+    3. Comedy (Possibly Romantic) - November release
+        - Finally, Microsoft should invest in a Comedy, potentially a Rom-Com.
+        - This would again, expand their following and possibly obtain new viewers (more females, couples, etc.).
+        - This movie should be released in November, which is a very successful month in terms of ROI and Net Income.
 
 
